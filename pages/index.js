@@ -4,7 +4,7 @@ import Link from 'next/link'
 function Home() {
     return (
         <div>
-            <h1>Página em Construção</h1>
+            <h1>em Construção</h1>
 
             <Link href="/sobre">
                 <a>Proejto Saber Aberto: Nordeste Cultural</a> 
