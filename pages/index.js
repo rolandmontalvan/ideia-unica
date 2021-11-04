@@ -4,7 +4,7 @@ import Link from 'next/link'
 function Home() {
     return (
         <div>
-            <Link href="https://forms.gle/5t5PCAbAe1FxesrT6">Página de Inscrição</Link>
+            <h1><Link href="https://forms.gle/5t5PCAbAe1FxesrT6">Página de Inscrição</Link></h1>
 
             <Link href="/sobre">
                 <a>Proejto Saber Aberto: Nordeste Cultural</a> 
